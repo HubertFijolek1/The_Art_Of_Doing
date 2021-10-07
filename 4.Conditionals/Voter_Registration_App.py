@@ -1,5 +1,6 @@
 #Conditionals Challenge 18: Voter Registration App
-
+ 
+ 
 print("Welcome to the Voter Registration App")
 
 name = input("What's your name bro: ").capitalize()
