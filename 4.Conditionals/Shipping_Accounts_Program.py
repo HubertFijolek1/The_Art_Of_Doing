@@ -1,8 +1,3 @@
-import math
-import cmath
-import datetime
-from math import sqrt
-import random
 #Conditionals Challenge 16: Shipping Accounts Program
 
 users = ['eramom' , 'footea', 'davisv', 'papinukt', 'allen']
