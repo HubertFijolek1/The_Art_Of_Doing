@@ -6,6 +6,7 @@ print("Welcome to the Voter Registration App")
 name = input("What's your name bro: ").capitalize()
 age = int(input("How old are you mate: "))
 
+
 parties = ["Republican", "Democratic", "Independent", "Libertarian", "Green"]
 
 
