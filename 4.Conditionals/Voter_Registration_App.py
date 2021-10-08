@@ -30,6 +30,5 @@ if age > 17:
         print("That is not a given party.")
         
 
-
 else:
     print("\nNot this time, baby... ;)")
