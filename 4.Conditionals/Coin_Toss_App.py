@@ -1,5 +1,4 @@
 
-
 import random
 
 #Conditionals Challenge 17: Coin Toss App
