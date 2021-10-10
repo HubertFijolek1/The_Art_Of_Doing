@@ -1,7 +1,4 @@
-import math
-import cmath
-import datetime
-from math import sqrt
+
 import random
 
 #Conditionals Challenge 17: Coin Toss App
