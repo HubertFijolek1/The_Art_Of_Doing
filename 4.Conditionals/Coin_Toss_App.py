@@ -2,7 +2,6 @@
 import random
 
 #Conditionals Challenge 17: Coin Toss App
-
 print("Welcome in Coint Toss App")
 print("\nI will flip a coin a set number of times")
 num_flip = int(input("Hey, how many time would you like to toss a coin, bro: "))
