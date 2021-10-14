@@ -1,4 +1,3 @@
-import time
 #While Loops Challenge 27: Even Odd Number Sorter App
 
 print("Welcome to the Even Odd Number Sorter App")
