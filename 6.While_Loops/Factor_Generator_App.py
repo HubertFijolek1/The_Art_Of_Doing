@@ -1,6 +1,5 @@
 #While Loops Challenge 26: Factor Generator App
 
-
 print("Welcome to the Factor Generator App")
 
 flag = True
