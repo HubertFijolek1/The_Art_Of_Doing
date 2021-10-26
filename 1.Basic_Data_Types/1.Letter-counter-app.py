@@ -1,3 +1,4 @@
+
 print("Welcome to the Letter Counter App")
 name = input("What is your name: ").title().strip()
 print("Hello, " + name + "!" )
