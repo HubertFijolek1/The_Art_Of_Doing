@@ -9,5 +9,6 @@ i=0
 for l in message:
     if letter == l: 
         i+=1
+        
 print(name + "your master has " + str(i)+ "'s in it")
 
